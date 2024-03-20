@@ -42,3 +42,5 @@ Examples:
 python ddpm_name.py --path data/total_capture/noisy/ --gt_path data/total_capture/gt/ --mode ddpm
 ```
 ##
+
+Note: In our implementation we use `common` and `models` folder from [Diffpose](https://github.com/GONGJIA0208/Diffpose)
