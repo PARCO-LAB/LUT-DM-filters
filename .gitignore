@@ -1,0 +1,9 @@
+# ignore ALL files in ANY directory named temp
+results/*.csv
+data/*
+.diffpose/
+.vscode/
+__pycache__/
+common/*
+
+models/*
